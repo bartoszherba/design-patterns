@@ -1,0 +1,14 @@
+{
+    "name": "bherba/design-patterns-playground",
+    "type": "project",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "DesignPatterns/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
